@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/thypedy/2emia-projeto
+![GitHub](https://img.shields.io/github/license/thypedy/2emia-projeto)
 # Título do projeto
 Descrição do projeto
 ## Autores
